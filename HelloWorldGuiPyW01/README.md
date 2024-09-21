@@ -8,7 +8,7 @@
 
 {Listed below is a link to a small demonstration of the GUI being run.}
 
-[Software Demo Video](https://youtu.be/MtoTbO__ZIc)
+[Software Demo Video](https://youtu.be/ONpTqmBksoQ)
 
 # Development Environment
 
