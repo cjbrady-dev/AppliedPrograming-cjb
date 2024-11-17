@@ -1,0 +1,11 @@
+C:\Users\cjcri\OneDrive\Documents\repos\AppliedPrograming-cjb\my_scraper\target\debug\deps\libtendril-667c468e2fd6bf88.rmeta: C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\lib.rs C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\fmt.rs C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\stream.rs C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\buf32.rs C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\tendril.rs C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\utf8_decode.rs C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\util.rs
+
+C:\Users\cjcri\OneDrive\Documents\repos\AppliedPrograming-cjb\my_scraper\target\debug\deps\tendril-667c468e2fd6bf88.d: C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\lib.rs C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\fmt.rs C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\stream.rs C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\buf32.rs C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\tendril.rs C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\utf8_decode.rs C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\util.rs
+
+C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\lib.rs:
+C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\fmt.rs:
+C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\stream.rs:
+C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\buf32.rs:
+C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\tendril.rs:
+C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\utf8_decode.rs:
+C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\util.rs:

@@ -1,0 +1,9 @@
+C:\Users\cjcri\OneDrive\Documents\repos\AppliedPrograming-cjb\my_scraper\target\debug\deps\libstring_cache-6e8fe905ca898222.rmeta: C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\string_cache-0.8.7\src\lib.rs C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\string_cache-0.8.7\src\atom.rs C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\string_cache-0.8.7\src\dynamic_set.rs C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\string_cache-0.8.7\src\static_sets.rs C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\string_cache-0.8.7\src\trivial_impls.rs
+
+C:\Users\cjcri\OneDrive\Documents\repos\AppliedPrograming-cjb\my_scraper\target\debug\deps\string_cache-6e8fe905ca898222.d: C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\string_cache-0.8.7\src\lib.rs C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\string_cache-0.8.7\src\atom.rs C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\string_cache-0.8.7\src\dynamic_set.rs C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\string_cache-0.8.7\src\static_sets.rs C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\string_cache-0.8.7\src\trivial_impls.rs
+
+C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\string_cache-0.8.7\src\lib.rs:
+C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\string_cache-0.8.7\src\atom.rs:
+C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\string_cache-0.8.7\src\dynamic_set.rs:
+C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\string_cache-0.8.7\src\static_sets.rs:
+C:\Users\cjcri\.cargo\registry\src\index.crates.io-6f17d22bba15001f\string_cache-0.8.7\src\trivial_impls.rs:
