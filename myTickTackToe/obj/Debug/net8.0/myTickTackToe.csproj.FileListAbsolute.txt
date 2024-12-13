@@ -1,0 +1,15 @@
+C:\Users\Cooper Brady\BYUI_Repos\AppliedPrograming-cjb\myTickTackToe\bin\Debug\net8.0\myTickTackToe.exe
+C:\Users\Cooper Brady\BYUI_Repos\AppliedPrograming-cjb\myTickTackToe\bin\Debug\net8.0\myTickTackToe.deps.json
+C:\Users\Cooper Brady\BYUI_Repos\AppliedPrograming-cjb\myTickTackToe\bin\Debug\net8.0\myTickTackToe.runtimeconfig.json
+C:\Users\Cooper Brady\BYUI_Repos\AppliedPrograming-cjb\myTickTackToe\bin\Debug\net8.0\myTickTackToe.dll
+C:\Users\Cooper Brady\BYUI_Repos\AppliedPrograming-cjb\myTickTackToe\bin\Debug\net8.0\myTickTackToe.pdb
+C:\Users\Cooper Brady\BYUI_Repos\AppliedPrograming-cjb\myTickTackToe\obj\Debug\net8.0\myTickTackToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cooper Brady\BYUI_Repos\AppliedPrograming-cjb\myTickTackToe\obj\Debug\net8.0\myTickTackToe.AssemblyInfoInputs.cache
+C:\Users\Cooper Brady\BYUI_Repos\AppliedPrograming-cjb\myTickTackToe\obj\Debug\net8.0\myTickTackToe.AssemblyInfo.cs
+C:\Users\Cooper Brady\BYUI_Repos\AppliedPrograming-cjb\myTickTackToe\obj\Debug\net8.0\myTickTackToe.csproj.CoreCompileInputs.cache
+C:\Users\Cooper Brady\BYUI_Repos\AppliedPrograming-cjb\myTickTackToe\obj\Debug\net8.0\myTickTackToe.sourcelink.json
+C:\Users\Cooper Brady\BYUI_Repos\AppliedPrograming-cjb\myTickTackToe\obj\Debug\net8.0\myTickTackToe.dll
+C:\Users\Cooper Brady\BYUI_Repos\AppliedPrograming-cjb\myTickTackToe\obj\Debug\net8.0\refint\myTickTackToe.dll
+C:\Users\Cooper Brady\BYUI_Repos\AppliedPrograming-cjb\myTickTackToe\obj\Debug\net8.0\myTickTackToe.pdb
+C:\Users\Cooper Brady\BYUI_Repos\AppliedPrograming-cjb\myTickTackToe\obj\Debug\net8.0\myTickTackToe.genruntimeconfig.cache
+C:\Users\Cooper Brady\BYUI_Repos\AppliedPrograming-cjb\myTickTackToe\obj\Debug\net8.0\ref\myTickTackToe.dll
